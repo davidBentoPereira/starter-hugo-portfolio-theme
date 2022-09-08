@@ -13,7 +13,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/david-bento-pereira/
-  - icon: malt
+  - icon: briefcase
     icon_pack: fab
     link: https://www.malt.fr/profile/davidbentopereira
 ---
